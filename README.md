@@ -20,6 +20,6 @@
   - Android 把设备连接到电脑上，[使用Chrome](http://developers.google.com/web/tools/chrome-devtools/remote-debugging/)。
 
 ### 记录Bug
-  在这里提交: <https://github.com/hackist/ilip/issues> 。
+  在这里提交: <https://github.com/hackist/ilip/issues>。
 
 
