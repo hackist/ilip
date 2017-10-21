@@ -1,13 +1,13 @@
 # 下载
 
- |---------+----------------------+--------|
+
  | 平台    | 支持                 | 安装包 |
- |---------+----------------------+--------|
+ | ------- | -------------------- | ------ |
  | Android | ARM, ARM64, x64, x86 |        |
  | iOS     | ARM64                |        |
  | Widnows | x64                  |        |
  | MacOS   | x86                  |        |
- |---------+----------------------+--------|
+
   - Android (ARM, ARM64, X64, X86)
   - iOS (ARM64)
   - Windows (64bit)
@@ -25,7 +25,7 @@
   - Android 把设备连接到电脑上，使用Chrome。
 
 # 记录Bug
-  在这里提交[https://github.com/hackist/ilip/issues][Bug]。
+  在这里提交<https://github.com/hackist/ilip/issues> [https://github.com/hackist/ilip/issues][Bug]。
 
 [Bug]: https://github.com/hackist/ilip/issues
 
