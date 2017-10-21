@@ -6,7 +6,7 @@
  | Android | ARM, ARM64, x64, x86 |  [ilip.apk](http://123.56.244.12/release/ilip-1.0.0.apk)  |
  | iOS     | ARM64                |  [ilip.ipa](http://123.56.244.12/release/ilip-1.0.0.ipa)  |
  | Widnows | x64                  |  [ilip.exe](http://123.56.244.12/release/ilip-1.0.0.exe)  |
- | MacOS   | x86                  |  [ilip.dmg](http://123.56.244.12/release/ilip-1.0.0.dmg)  |
+ | MacOS   | x64                  |  [ilip.dmg](http://123.56.244.12/release/ilip-1.0.0.dmg)  |
 
 ### 第一次启动
   第一次启动要下载全部文件，需要较长等待时间，根据网络状况，大概1分钟左右。
