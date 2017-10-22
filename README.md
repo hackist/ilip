@@ -17,7 +17,7 @@
 ### 调试
   - Windows 和 MacOS 打开App时就有调试窗口。
   - iOS 把设备连接到Mac上，[使用Safari](https://developer.apple.com/library/content/documentation/AppleApplications/Conceptual/Safari_Developer_Guide/GettingStarted/GettingStarted.html)。
-  - Android 把设备连接到电脑上，[使用Chrome](http://developers.google.com/web/tools/chrome-devtools/remote-debugging/)。
+  - Android 把设备连接到电脑上，[使用Chrome](http://123.56.244.12/release/developers.google.com/android_chrome.pdf)。
 
 ### 记录Bug
   在这里提交: <https://github.com/hackist/ilip/issues>。
