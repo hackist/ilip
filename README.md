@@ -8,7 +8,7 @@
  | Widnows | x64                  |  [ilip.exe](http://123.56.244.12/release/ilip-1.0.0.exe)  |
  | MacOS   | x64                  |  [ilip.dmg](http://123.56.244.12/release/ilip-1.0.0.dmg)  |
 
-  Android 和 iOS 需要在开发机器上安装。
+  iOS 需要在开发机器上安装。
 ### 第一次启动
   第一次启动要下载全部文件，需要较长等待时间，根据网络状况，大概1分钟左右。
 
