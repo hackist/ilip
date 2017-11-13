@@ -15,7 +15,7 @@
 ![apk scan code](https://github.com/hackist/ilip/raw/master/ilip.gif "http://123.56.244.12/release/ilip-1.0.0.apk")
 
 #### IPA QR code
-![ipa scan code](https://github.com/hackist/ilip/raw/master/2V7HmZ.png "https://i.diawi.com/2V7HmZ")
+![ipa scan code](https://github.com/hackist/ilip/raw/master/ilip.ios.gif "https://i.diawi.com/2V7HmZ")
 
 ### 第一次启动
   第一次启动要下载全部文件，需要较长等待时间，根据网络状况，大概1分钟左右。
