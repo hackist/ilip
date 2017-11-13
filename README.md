@@ -6,7 +6,7 @@
  | Android | ARM, ARM64, x64, x86 |  [ilip.apk](http://123.56.244.12/release/ilip-1.0.0.apk)  |
  | iOS     | ARM64                |  [ilip.ipa](https://i.diawi.com/2V7HmZ)  |
  | Widnows | x64                  |  [ilip.exe](http://123.56.244.12/release/ilip-1.0.0.exe)  |
- | MacOS   | x64                  |  [ilip.dmg](http://123.56.244.12/release/ilip-1.0.0.dmg)  |
+ | MacOS   | x64                  |  [ilip.dmg](http://123.56.244.12/release/ilip-1.0.0-mac.zip)  |
 
   - iOS 需要在开发机器上安装。
   - Android 下载，不要用QQ浏览器，用其他浏览器下载
