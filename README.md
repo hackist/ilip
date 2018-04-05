@@ -4,7 +4,7 @@
  | 平台    | 支持                 | 安装包 |
  | ------- | -------------------- | ------ |
  | Android | ARM, ARM64, x64, x86 |  [ilip.apk](http://123.56.244.12/release/ilip-1.0.0.apk)  |
- | iOS     | ARM64                |  [ilip.ipa](https://i.diawi.com/CqbWtW)  |
+ | iOS     | ARM64                |  [ilip.ipa](https://i.diawi.com/rtVkNS)  |
  | Widnows | x64                  |  [ilip.exe](http://123.56.244.12/release/ilip-1.0.0.exe)  |
  | MacOS   | x64                  |  [ilip.dmg](http://123.56.244.12/release/ilip-1.0.0-mac.zip)  |
 
@@ -15,7 +15,7 @@
 ![apk scan code](https://github.com/hackist/ilip/raw/master/ilip.gif "http://123.56.244.12/release/ilip-1.0.0.apk")
 
 #### IPA QR code
-![ipa scan code](https://github.com/hackist/ilip/raw/master/CqbWtW.png "https://i.diawi.com/CqbWtW")
+![ipa scan code](https://github.com/hackist/ilip/raw/master/rtVkNS.png "https://i.diawi.com/rtVkNS")
 
 ### 第一次启动
   第一次启动要下载全部文件，需要较长等待时间，根据网络状况，大概1分钟左右。
