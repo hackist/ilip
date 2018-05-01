@@ -4,7 +4,7 @@
  | 平台    | 支持                 | 安装包 |
  | ------- | -------------------- | ------ |
  | Android | ARM, ARM64, x64, x86 |  [ilip.apk](http://123.56.244.12/release/ilip-1.0.0.apk)  |
- | iOS     | ARM64                |  [ilip.ipa](https://i.diawi.com/rtVkNS)  |
+ | iOS     | ARM64                |  [ilip.ipa](https://i.diawi.com/GNWCrH)  |
  | Widnows | x64                  |  [ilip.exe](http://123.56.244.12/release/ilip-1.0.0.exe)  |
  | MacOS   | x64                  |  [ilip.dmg](http://123.56.244.12/release/ilip-1.0.0-mac.zip)  |
 
