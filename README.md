@@ -11,11 +11,11 @@
   - iOS 需要在开发机器上安装。
   - Android 下载，不要用QQ浏览器，用其他浏览器下载
 
+#### IPA QR code
+![ipa scan code](https://iliprelease.oss-cn-beijing.aliyuncs.com/release/GNWCrH.png "https://i.diawi.com/GNWCrH")
+
 #### APK QR code
 ![apk scan code](https://github.com/hackist/ilip/raw/master/ilip.gif "http://123.56.244.12/release/ilip-1.0.0.apk")
-
-#### IPA QR code
-![ipa scan code](https://github.com/hackist/ilip/raw/master/rtVkNS.png "https://i.diawi.com/rtVkNS")
 
 ### 第一次启动
   第一次启动要下载全部文件，需要较长等待时间，根据网络状况，大概1分钟左右。
